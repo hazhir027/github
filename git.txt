@@ -1,0 +1,2 @@
+hi it is a git file.
+we are learning how to push, commit, pull, init, and other commands which are related to github.
